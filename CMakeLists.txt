@@ -23,7 +23,8 @@ add_message_files(
   RawMotor.msg
   BatteryStatus.msg
   Point2D.msg
-  Keypoints.msg
+  PropVelocity.msg
+  Flow.msg
 )
 
 generate_messages(
